@@ -44,12 +44,12 @@
         "show_line_separator": true,
         "color_scheme": "scheme-74a8f24a-8798-4af1-bf02-c35d2c9f8d9a",
         "menu_color_scheme": "scheme-74a8f24a-8798-4af1-bf02-c35d2c9f8d9a",
-        "enable_country_selector": true,
+        "enable_country_selector": false,
         "enable_language_selector": true,
         "mobile_logo_position": "center",
         "margin_bottom": 0,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     }
   },
