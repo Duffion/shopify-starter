@@ -5,29 +5,45 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
+        "73b03c27-20f0-4e9f-a3c1-bc72711952bf": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "text_alignment": "center",
-            "color_scheme": "scheme-1",
+            "text": "Checkout out our monthly selection of products!",
+            "link": ""
+          }
+        },
+        "ff0ffbac-1410-4ca5-a44b-a72053ca9adb": {
+          "type": "announcement",
+          "settings": {
+            "text": "Gaming, Tech, Collectables and other goods that you might be looking for...",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
-      ]
+        "73b03c27-20f0-4e9f-a3c1-bc72711952bf",
+        "ff0ffbac-1410-4ca5-a44b-a72053ca9adb"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "show_line_separator": true,
+        "show_social": true,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
     },
     "header": {
       "type": "header",
       "settings": {
-        "color_scheme": "scheme-1",
         "logo_position": "middle-left",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
+        "color_scheme": "scheme-1",
+        "menu_color_scheme": "",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "mobile_logo_position": "center",
